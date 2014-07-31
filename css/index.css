@@ -21,8 +21,8 @@ a:hover {
   text-decoration: none;
 }
 
-.blue {
-  color: #4d4dff;    
+.black {
+  color: #cccccc;    
 }
 
 .ui.underline {
@@ -73,7 +73,7 @@ header {
 } 
 
 #image-gallery {
-  background-color: #cc0000;
+  background-color: ##4d4dff;
 }
 
 #section-one {
